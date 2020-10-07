@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Money saver</string>
+    <string name="details">MoneySaver is a Digital Financial Institution that provides Digital
+        financial services (DFS) to all mobile phone users in communities across Uganda. We also provide
+        Financial literacy programs in all aspects. This organization has a goal of eradicating poverty in Africa through
+        job creation and enhancing saving through financial inclusion.</string>
+
+    <string name="about">MoneySaver is a Digital Financial Institution that provides Digital financial services (DFS) to all mobile phone users in communities across Uganda. We also provide Financial literacy programs in communities and schools in partnership with (GIZ) and MADIFA , Mbarara based Company. This organization has a goal of eradicating poverty in Africa through job creation and enhancing saving through financial inclusion.
+
+The services provided allows mobile phone users using Airtel money or MTN mobile money to open a Mobile saving Accounts that Lock’s money for a specific period of time a customer chooses e.g 1 month, 3 months, 6 months or 1 year and earn interest.
+
+
+A study of 1,500 poor people in Uganda showed that 99 percent of respondents Failed to reach their savings goals when using informal methods, either because the money was stolen or lost, or because they were too tempted to spend the money when it was stored as cash in their home. And it is estimated that 3 out of 4 adults in developing and middle income countries don’t have bank accounts. (https://docs.gatesfoundation.org/Documents/savings-statistics-financial-services-for-the-poor).
+
+The Organization was registered and incorporated under the law of Uganda and managed by experienced team in Banking and Technology.
+We appreciate your support..Thank you</string>
+
+
+    <string name="balance">Dear customer, your balance is </string>
+
+    <string name="bonus">Dear customer, your bonus is </string>
+
+    <string name="interest">Our beloved customer, your interest is.........</string>
+    <string name="notify">Our beloved customer, your request has been successfully granted...</string>
+    <string name="flash">MoneySaver is a Digital Financial Institution that provides Digital
+        financial services (DFS) to all mobile phone users in communities across Uganda.</string>
+    <string name="select_picture">image</string>
+
+    <string-array name="numbers">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>five</item>
+        <item>five</item>
+        <item>five</item>
+    </string-array>
+
+    <string-array name="sort">
+        <item>name</item>
+        <item>time</item>
+        <item>type</item>
+    </string-array>
+
+
+</resources>
