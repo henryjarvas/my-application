@@ -54,23 +54,6 @@ public class BalanceAdapter extends RecyclerView.Adapter<BalanceAdapter.BalanceV
         holder.amount_holder.setText(mData.get(position).getAmount());
         holder.balance.setAnimation(AnimationUtils.loadAnimation(context, R.anim.fade_scale_animation));
 
-        holder.bonus_btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                bonus_text.setVisibility(View.VISIBLE);
-                String mybalancesssss = actual_balance.getText().toString();
-
-                double nnn = 0.1*Integer.parseInt(mybalancesssss) ;
-//        String bbbbbbbb = String.valueOf(nnn);
-//        teeeeesssssstttttt.setText(bbbbbbbb);
-
-                /* get the  bonus from balance*/
-
-                //display the bonus
-                String getBonus = String.valueOf(nnn);
-                actual_bonus.setText(getBonus);
-            }
-        });
 
 
     }
